@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "9c4c6676b591070d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8c255ee5499667",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b672f2dd880b3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28f5aef3ad0b33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c23c69c5a7c8092",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8b95855dc117274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05d1f53b20a1b236",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "a306454ae3dec4a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4552089d1b7079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2c6f4e144f0029",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b6c8d8b7e55bdc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bda33246a30eba72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54c7b58971f73f8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e8c255ee5499667",
+  "lastOpenFiles": [
+    "Security Notes/Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/3 Pivoting with SOCKS and Proxychains.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/9 Jumping to shellcode.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/8 Finding Return Instruction.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/7 Identifying Bad Characters.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/6 Controlling EIP.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/5  Fuzzing.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/4 Stack Based BoF.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/3 Debugger.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/2 Stacks.md",
+    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/1 Introduction.md"
+  ]
+}
