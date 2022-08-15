@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security Notes/Higher level Pentesting/Shells and Payloads/Shells.md",
+            "file": "Security Notes/Higher level Pentesting/Web Exploits/Non Categorized.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Shells and Payloads/Shells.md",
+                "file": "Security Notes/Higher level Pentesting/Web Exploits/Non Categorized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Shells and Payloads/Shells.md",
+                "file": "Security Notes/Higher level Pentesting/Web Exploits/Non Categorized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Shells and Payloads/Shells.md"
+                "file": "Security Notes/Higher level Pentesting/Web Exploits/Non Categorized.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3dfc9289519f707",
+  "active": "6c23c69c5a7c8092",
   "lastOpenFiles": [
-    "Security Notes/Higher level Pentesting/Shells and Payloads/TTY Shell Upgrade.md",
-    "Security Notes/Higher level Pentesting/Shells and Payloads/Shells.md",
-    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes - Bash Scripting.md",
+    "Security Notes/Higher level Pentesting/Tools/Bruteforce.md",
+    "Security Notes/Higher level Pentesting/Tools/Burpsuite.md",
+    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes.md",
     "Security Notes/Higher level Pentesting/Operating Systems/Connecting to a Machine.md",
-    "Security Notes/Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/4 Remote-Reverse Port Forwarding with SSH.md",
-    "Security Notes/Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/3 Pivoting with SOCKS and Proxychains.md",
-    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/9 Jumping to shellcode.md",
-    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/8 Finding Return Instruction.md",
-    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/7 Identifying Bad Characters.md",
-    "Security Notes/Low level (RE, Binary Exploitation)/Binary Exploitation/Buffer Overflows/6 Controlling EIP.md"
+    "Security Notes/Higher level Pentesting/Shells and Payloads/Temp Cheat sheet.md",
+    "Security Notes/Higher level Pentesting/Shells and Payloads/TTY Shell Upgrade.md",
+    "Security Notes/Higher level Pentesting/Shells and Payloads/Windows Shells.md",
+    "Security Notes/Higher level Pentesting/Shells and Payloads/Shells Explained.md",
+    "Security Notes/Higher level Pentesting/Web Exploits/Non Categorized.md",
+    "Security Notes/Higher level Pentesting/Web Exploits/LFI Local File Inclusion.md"
   ]
 }
