@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "fa6c1e16d98d97d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "342dfae4404133fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Higher level Pentesting/Web Exploits/Non Categorized.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86db434d73e773f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c253290c062fb3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fed0eae3d8d2df8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34b5e8c6c5ee42d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10fc7228518e8147",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e3be393ea62c3d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdcdba2479713063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d80cf1208a157b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Higher level Pentesting/Web Exploits/Non Categorized.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1afb8a1bf0f269a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Higher level Pentesting/Web Exploits/Non Categorized.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "881071639d918416",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9c6533f314692c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Higher level Pentesting/Web Exploits/Non Categorized.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "342dfae4404133fb",
+  "lastOpenFiles": [
+    "Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md",
+    "Higher level Pentesting/Operating Systems/Linux Notes -  Concepts.md",
+    "Higher level Pentesting/Operating Systems/Connecting to a Machine.md",
+    "Higher level Pentesting/Shells and Payloads/Metasploit.md",
+    "Higher level Pentesting/Shells and Payloads/Shells Explained.md",
+    "Higher level Pentesting/Shells and Payloads/Temp Cheat sheet.md",
+    "Higher level Pentesting/Shells and Payloads/TTY Shell Upgrade.md",
+    "Higher level Pentesting/Shells and Payloads/Windows Shells.md",
+    "Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/4 Remote-Reverse Port Forwarding with SSH.md",
+    "Low level (Reverse Engineering, Binary Exploitation)/Binary Exploitation/Buffer Overflows/3 Debugger.md"
+  ]
+}
