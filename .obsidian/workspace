@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md",
+            "file": "Security Notes/Higher level Pentesting/Web App Attacks/SQL Injection.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md",
+                "file": "Security Notes/Higher level Pentesting/Web App Attacks/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md",
+                "file": "Security Notes/Higher level Pentesting/Web App Attacks/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md"
+                "file": "Security Notes/Higher level Pentesting/Web App Attacks/SQL Injection.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "e3dfc9289519f707",
   "lastOpenFiles": [
-    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes -  Concepts.md",
-    "Security Notes/Higher level Pentesting/Operating Systems/Creating a box.md",
-    "Security Notes/Higher level Pentesting/Operating Systems/Bash Scripting.md",
-    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md",
+    "Security Notes/Higher level Pentesting/Web App Attacks/LFI Local File Inclusion & Directory Traversals.md",
     "Security Notes/Higher level Pentesting/Web App Attacks/XSS - Cross Site Scripting.md",
-    "Security Notes/Higher level Pentesting/Checklist/Skipped from tb.md",
-    "Security Notes/Higher level Pentesting/Web App Attacks/LFI Local File Inclusion.md",
-    "Security Notes/Higher level Pentesting/Web App Attacks/Multiple Database Enumeration.md",
     "Security Notes/Higher level Pentesting/Tools/Burpsuite.md",
-    "Security Notes/Higher level Pentesting/Web App Attacks/Introduction and Enumeration.md"
+    "Security Notes/Higher level Pentesting/Web App Attacks/Introduction and Enumeration.md",
+    "Security Notes/Higher level Pentesting/Web App Attacks/Admin Consoles.md",
+    "Security Notes/Higher level Pentesting/Web App Attacks/Multiple Database Enumeration.md",
+    "Security Notes/Higher level Pentesting/Tools/Nikto.md",
+    "Security Notes/Higher level Pentesting/Checklist/Skipped from tb.md",
+    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes  - Commands.md",
+    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes -  Concepts.md"
   ]
 }
