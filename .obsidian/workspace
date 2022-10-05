@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+            "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md"
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "e3dfc9289519f707",
   "lastOpenFiles": [
+    "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Linux Priv esc.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Temp Cheat sheet.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Shells Explained.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Windows shells and payloads.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/TTY Shell Upgrade.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Metasploit.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
     "Security Notes/Higher level Pentesting/Checklist/Skipped from tb.md",
-    "Security Notes/Higher level Pentesting/Attack Vectors/Public Exploits.md",
-    "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/SQL Injection.md",
-    "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/LFI Local File Inclusion & Directory Traversals.md"
+    "Security Notes/Higher level Pentesting/Attack Vectors/Public Exploits.md"
   ]
 }
