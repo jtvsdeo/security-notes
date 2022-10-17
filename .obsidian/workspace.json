@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "9c4c6676b591070d",
+    "type": "split",
+    "children": [
+      {
+        "id": "647b50e8bce91249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3dfc9289519f707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b672f2dd880b3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28f5aef3ad0b33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c23c69c5a7c8092",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b95855dc117274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05d1f53b20a1b236",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "a306454ae3dec4a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4552089d1b7079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2c6f4e144f0029",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b6c8d8b7e55bdc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bda33246a30eba72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54c7b58971f73f8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e3dfc9289519f707",
+  "lastOpenFiles": [
+    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+    "Security Notes/Higher level Pentesting/Tools/Bruteforce.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Metasploit.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Shells Explained.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Temp Cheat sheet.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/TTY Shell Upgrade.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Windows shells and payloads.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Hashes.md",
+    "Security Notes/Higher level Pentesting/Operating Systems/Windows Notes.md"
+  ]
+}
