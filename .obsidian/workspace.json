@@ -35,9 +35,11 @@
             "id": "4e3fe13f765d7384",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Security Notes/Higher level Pentesting/Checklist/Things to go over.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+                "file": "Security Notes/Higher level Pentesting/Checklist/Things to go over.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+                "file": "Security Notes/Higher level Pentesting/Checklist/Things to go over.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md"
+                "file": "Security Notes/Higher level Pentesting/Checklist/Things to go over.md"
               }
             }
           }
