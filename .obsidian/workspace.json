@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+                "file": "Security Notes/Higher level Pentesting/Port Scanning/Common Ports and how to enumerate.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8b39d426311bf55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e3fe13f765d7384",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md"
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md"
               }
             }
           }
@@ -136,20 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e3dfc9289519f707",
+  "active": "4e3fe13f765d7384",
   "lastOpenFiles": [
-    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
-    "Security Notes/Higher level Pentesting/Tools/Bruteforce.md",
+    "Security Notes/Higher level Pentesting/Port Scanning/Common Ports and how to enumerate.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Public Exploits.md",
+    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes -  Concepts.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Windows shells and payloads.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Metasploit.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Shells Explained.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Temp Cheat sheet.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/TTY Shell Upgrade.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Windows shells and payloads.md",
-    "Security Notes/Higher level Pentesting/Attack Vectors/Hashes.md",
-    "Security Notes/Higher level Pentesting/Operating Systems/Windows Notes.md"
+    "Security Notes/Higher level Pentesting/Tools/Curl.md"
   ]
 }
