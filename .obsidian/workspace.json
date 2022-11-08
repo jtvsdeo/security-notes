@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/SQL Injection.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "privesc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/SQL Injection.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/SQL Injection.md",
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/SQL Injection.md"
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "e3dfc9289519f707",
   "lastOpenFiles": [
-    "Security Notes/Higher level Pentesting/Attack Vectors/Hashes.md",
     "Security Notes/Higher level Pentesting/Port Scanning/Common Ports and how to enumerate.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
-    "Security Notes/Higher level Pentesting/Checklist/Things to go over.md",
     "Security Notes/Higher level Pentesting/Post Exploitation/Privilege Escalation/Windows Priv Esc.md",
-    "Security Notes/Higher level Pentesting/Attack Vectors/Public Exploits.md",
-    "Security Notes/Higher level Pentesting/Operating Systems/Linux Notes -  Concepts.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Windows shells and payloads.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Metasploit.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Shells Explained.md"
+    "Security Notes/Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/3 Pivoting with SOCKS and Proxychains.md",
+    "Security Notes/Higher level Pentesting/Checklist/Things to go over.md",
+    "Security Notes/Higher level Pentesting/Checklist/Checklist for Web.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/SQL Injection.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Hashes.md",
+    "Security Notes/Higher level Pentesting/Tools/Gobuster.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/1. Introduction and Enumeration.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md"
   ]
 }
