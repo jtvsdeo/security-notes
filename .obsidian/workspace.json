@@ -85,7 +85,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Active Directory/Lateral Movement.md",
+                "file": "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/Non Categorized.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "263536d69dc0c446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13772cd6efd603ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Notes/Higher level Pentesting/Active Directory/Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Active Directory/Lateral Movement.md",
+                "file": "Security Notes/Higher level Pentesting/Active Directory/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Active Directory/Lateral Movement.md",
+                "file": "Security Notes/Higher level Pentesting/Active Directory/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Notes/Higher level Pentesting/Active Directory/Lateral Movement.md"
+                "file": "Security Notes/Higher level Pentesting/Active Directory/Authentication.md"
               }
             }
           }
@@ -242,17 +266,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf1f77d72ee4b78f",
+  "active": "13772cd6efd603ff",
   "lastOpenFiles": [
-    "Security Notes/Higher level Pentesting/Active Directory/Persistence.md",
-    "Security Notes/Higher level Pentesting/Active Directory/Lateral Movement.md",
-    "Security Notes/Higher level Pentesting/Active Directory/Basic Information.md",
-    "Security Notes/Higher level Pentesting/Active Directory/Authentication.md",
     "Security Notes/Higher level Pentesting/Active Directory/Enumeration.md",
-    "Security Notes/Higher level Pentesting/Tools/Bruteforce.md",
-    "Security Notes/Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/2 Port Forwarding.md",
-    "Security Notes/Higher level Pentesting/Pivoting, Tunneling and Port Forwarding/4 Remote-Reverse Port Forwarding with SSH.md",
-    "Security Notes/Higher level Pentesting/Attack Vectors/Hashes.md",
-    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md"
+    "Security Notes/Higher level Pentesting/Active Directory/Test Example 1.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/File Transfers.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Temp Cheat sheet.md",
+    "Security Notes/Higher level Pentesting/Post Exploitation/Shells and Payloads/Shells Explained.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/Command Injection.md",
+    "Security Notes/Higher level Pentesting/Attack Vectors/Web App Attacks/Non Categorized.md",
+    "Security Notes/Higher level Pentesting/Port Scanning/Common Ports and how to enumerate.md",
+    "Security Notes/Higher level Pentesting/Active Directory/Lateral Movement.md",
+    "Security Notes/Higher level Pentesting/Active Directory/Persistence.md"
   ]
 }
